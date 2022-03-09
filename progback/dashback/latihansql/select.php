@@ -1,0 +1,1 @@
+SELECT 'id_buat', 'npk', 'judul' FROM `buat_ss`
